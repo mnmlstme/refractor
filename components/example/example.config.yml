@@ -1,0 +1,6 @@
+title: Example component
+context:
+    color: red
+    text: This is an example component!
+    requires:
+        - Example
