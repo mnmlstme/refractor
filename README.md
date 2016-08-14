@@ -1,6 +1,4 @@
----
-title: Refractor
----
+# Refractor
 
 An experiment in using <a href="http://fractal.build">Fractal</a>
 to document and test React components.
