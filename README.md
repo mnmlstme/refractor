@@ -11,11 +11,11 @@ components in the browser by providing a Handlebars helper
 to wrap JSX in a `<script type="text/babel">`.
 
 ```
-\{{#jsx requires}}
-<Example color="\{{color}}">
-    <p>\{{text}}</p>
+{{#jsx requires}}
+<Example color="{{color}}">
+    <p>{{text}}</p>
 </Example>
-\{{/jsx}}
+{{/jsx}}
 ```
 
 becomes
